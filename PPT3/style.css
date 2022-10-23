@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Open+Sans:wght@300&family=PT+Sans&family=Poppins:wght@300&family=Roboto+Condensed:wght@700&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;1,100;1,200&family=Roboto+Slab:wght@400;800&family=Roboto:ital,wght@1,700&family=Ubuntu:ital@1&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    color: white;
+    background-color: red;
+}
+
+
+.h-1 {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    font-family: 'PT Sans', sans-serif;
+    height: 7vh;
+}
+
+ul {
+    list-style: none;
+}
+
+.list {
+    display: inline-flex;
+    transform: translateX(73px);
+    font-size: 21px;
+}
+
+.element {
+    padding: 0px 16px;
+}
+
+.part-2 {
+    height: 259px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.primary {
+    font-size: 47px;
+}
+
+.size {
+    padding: 12px;
+}
+
+.sec1 {
+    display: flex;
+    padding: 28px;
+}
+
+.sec2 {
+    display: flex;
+    flex-direction: column;
+    padding: 21px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.item {
+    color: rgb(202, 81, 81);
+    margin: 10px;
+}
+
+.btn {
+    border: none;
+    width: 68px;
+    height: 30px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}
+
+.another {
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    background-color: red;
+}
+
+.point1 {
+    height: 87px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.point2 {
+    display: flex;
+    height: 242px;
+    padding: 16px 27px;
+    justify-content: center;
+    align-items: center;
+}
+
+.element1 {
+    border: 1px solid white;
+    height: 178px;
+    width: 224px;
+    margin: auto 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.element1 img {
+    height: 12vh;
+    width: 10vw;
+    padding-bottom: 3px;
+}
+
+.element1 .c1 {
+    height: 6vh;
+    width: 8vw;
+    border-radius: 3px;
+    position: relative;
+    transform: translateX(53px);
+    bottom: -4px;
+}
+
+.secondary {
+    font-size: 19px;
+    margin: 2px;
+    padding: 3px;
+}
+
+.para {
+    padding-bottom: 5px;
+}
+
+.pictures {
+    font-family: 'PT Sans', sans-serif;
+    color: red;
+}
+
+.picture1 {
+    height: 145px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#hellojee {
+    margin-bottom: 9px;
+    font-size: 2.1rem;
+}
+
+.picture2 {
+    font-family: 'PT Sans', sans-serif;
+    color: red;
+    height: 286px;
+    width: 40vw;
+}
+
+.hello1 img {
+    height: 20vh;
+    width: 332px;
+}
+
+.container {
+    display: flex;
+    height: 415px;
+    justify-content: space-around;
+    align-items: center;
+    padding: 35px;
+}
+
+.para2 {
+    margin: 12px;
+    transform: translateX(-12px);
+  }
+
+.foot {
+        height: 75px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 13px;
+        border-top: 1px solid seagreen;
+}
+
+.zero{
+    margin: 3px;
+}
+
+
+.btn2 {
+    position: fixed;
+    bottom: 31px;
+    right: 32px;
+    width: 37px;
+    height: 34px;
+    border: none;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 35px;
+    text-rendering: auto;
+    color: red;
+    background: none;
+  }
